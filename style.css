@@ -3,7 +3,9 @@
     padding: 0;
     font-family: fantasy;
 }
-
+.main-content{
+    margin-top: 200px;
+}
 div{
     text-align: center;
 }
