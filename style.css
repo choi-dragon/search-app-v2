@@ -6,6 +6,9 @@
 .main-content{
     margin-top: 200px;
 }
+h1{
+    margin-bottom: 5px;
+}
 div{
     text-align: center;
 }
